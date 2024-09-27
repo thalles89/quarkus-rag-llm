@@ -21,3 +21,8 @@ To run the demo, navigate to the `4-rag` directory and run `mvn quarkus:dev`.
 ```
 
 The UI is available at `http://localhost:8080`.
+
+
+At the present moment Mona is stuck and can't answer anything lol;
+![img.png](img.png)
+
